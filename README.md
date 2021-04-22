@@ -9,22 +9,30 @@ The data used come from the World Economic Outlook Database.
 The code is fit only for the "By Countries" data (here is the link to the October 2020 data : https://www.imf.org/en/Publications/WEO/weo-database/2020/October/download-entire-database).
 
 ## Requirements
-You need to install R and Python
 
-Libraries needed for R :
+### Initialize R
+Download R for Windows : https://cran.r-project.org/bin/windows/base/
+Download R for Mac OS X : https://cran.r-project.org/bin/macosx/
+Download Rstudio : https://www.rstudio.com/products/rstudio/download/
+
+Needed libraries :
 ```R
 install.packages("shinydashboard")
 install.packages("reticulate")
 install.packages("ggplot2")
 install.packages("ggthemes")
 ```
-Libraries needed for python :
+### Initialize Python
+Download python : https://www.python.org/downloads/
 
+Needed libraries :
 ```bash
 pip install pandas
 pip install numpy
 pip install pathlib
 pip install datetime
 ```
-Here is the tutorial to create the virtual environment to be able to using python with Rstudio and reticulate :
-https://docs.rstudio.com/tutorials/user/using-python-with-rstudio-and-reticulate/
+
+### Create the virtual environment
+Installing and configuring Python with Rstudio and the reticulate library
+https://support.rstudio.com/hc/en-us/articles/360023654474-Installing-and-Configuring-Python-with-RStudio
