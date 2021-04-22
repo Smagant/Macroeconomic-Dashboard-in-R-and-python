@@ -1,5 +1,5 @@
 # WEO-Macroeconomic-Dashboard
-Here is a simple data visualization of the World Economic Outlook Database using Rshiny Dashboard and python.
+Here is a simple data visualization of the World Economic Outlook Database using Rshiny Dashboard for the interface and python for the backend.
 
 Youtube video related to the projet : link
 
