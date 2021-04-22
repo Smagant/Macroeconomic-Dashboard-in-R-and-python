@@ -1,11 +1,11 @@
 # WEO-Macroeconomic-Dashboard
 A simple data visualization of the World Economic Outlook Database from the International Monetary Fund (https://www.imf.org/) using Rshiny Dashboard and python.
 
-## Youtube video related to the projet
-link
-
 ## WARNING
-In order to run this interface, you need to create a virtual environment in which Rstudio can communicate with python. More informations in the Requirements
+In order to run this interface, you need to create a virtual environment in which Rstudio can communicate with python. Further information in the Requirements
+
+### Youtube video related to the projet
+link
 
 ## Data
 The data used come from the World Economic Outlook Database.
