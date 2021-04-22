@@ -1,5 +1,5 @@
 # WEO-Macroeconomic-Dashboard
-A simple data visualization of the World Economic Outlook Database from the International Monetary Fund (https://www.imf.org/) using Rshiny Dashboard and python.
+Here is a simple data visualization of the World Economic Outlook Database using Rshiny Dashboard and python.
 
 Youtube video related to the projet : link
 
