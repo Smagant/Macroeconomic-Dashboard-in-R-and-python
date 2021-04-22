@@ -1,0 +1,1 @@
+Sys.setenv(RETICULATE_PYTHON = here::here(".venv/Scripts/python.exe"))
