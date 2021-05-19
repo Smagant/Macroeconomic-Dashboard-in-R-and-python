@@ -1,7 +1,7 @@
 # WEO-Macroeconomic-Dashboard
 Here is a simple data visualization of the World Economic Outlook Database using Rshiny Dashboard for the interface and python for the backend.
 
-Youtube video related to the projet : link
+Youtube video related to the projet : https://youtu.be/YSE4UPHzETM
 
 ## WARNING
 In order to run this interface, you need to create a virtual environment in which Rstudio can communicate with python. Further information in the Requirements
